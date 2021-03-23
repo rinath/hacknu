@@ -6,9 +6,9 @@ import pickle
 from nltk.tokenize import RegexpTokenizer
 
 #reading datasets
-df1 = pd.read_csv('/Users/as.tarlan02/Desktop/articles1.csv')
-df2 = pd.read_csv('/Users/as.tarlan02/Desktop/articles2.csv')
-df3 = pd.read_csv('/Users/as.tarlan02/Desktop/articles3.csv')
+df1 = pd.read_csv('articles1.csv')
+df2 = pd.read_csv('articles2.csv')
+df3 = pd.read_csv('articles3.csv')
 
 #merging into one dataframe
 frames = [df1, df2, df3]
