@@ -9,4 +9,4 @@ Our solutions mainly consists of preprocessing the input data (tokenization, lem
 
 [Link to the news dataset](https://www.kaggle.com/snapcrack/all-the-news)  
 
-<img src="https://github.com/rinath/hacknu/blob/main/output_example.png">
+<img src="https://github.com/rinath/hacknu/blob/master/output_example.png">
