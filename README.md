@@ -6,4 +6,6 @@ By <b>3.14rates</b>
 
 Our solutions mainly consists of preprocessing the input data (tokenization, lemmatization) and using ranking functions as <b>tf-idf</b> and <b>bm25</b>
 
+[Link to the news dataset](https://www.kaggle.com/snapcrack/all-the-news)  
+
 <img src="https://github.com/rinath/hacknu/blob/main/output_example.png">
